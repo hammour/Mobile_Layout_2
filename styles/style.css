@@ -1,13 +1,16 @@
 
 header{
 	background-color: #358CBD;
+	position: fixed;
+	overflow: hidden;
+	width: 100%
+}
+nav{
 
-	
-	
 	
 }
 .Word_Press_Logo{
-	width:auto;
+	width:all;
 	margin: 1em 1em 0em 1em;
 	float: left;
 
@@ -18,8 +21,8 @@ header{
 
 	
 	color: white;
-	width: 20em;
-	
+	width: auto;
+	float: left;
 	padding-top: 1em;
 	padding-bottom: 1em;
 
@@ -39,8 +42,9 @@ header{
 	
 
 .login{
+	background-color: #2471A2;
 
-	
+	padding: 1em;
 	color: #fff;
 	float: right;	
 	}
@@ -140,14 +144,21 @@ ul {
     text-align: center;
 }
 
-ul li {
+li {
     display: inline;
+    padding: 1em;
 }
 
 footer {
 	background-color: black;
-	color: white;
+	
 	padding: 1em 1em 1em 1em;
+	
+}
+a{
+	text-decoration: none;
+	color: white;
+
 }
 
 
