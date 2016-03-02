@@ -1,15 +1,13 @@
 
-.header_body{
+header{
 	background-color: #358CBD;
-	margin: 1em 1em 0em 1em;
-	padding: .5em .5em .5em .5em;
-	width: auto;
+	
 	
 	
 }
 .Word_Press_Logo{
 	width:auto;
-	margin: 1em 1em 1em 1em;
+	margin: 1em 1em 0em 1em;
 	float: left;
 
 
@@ -20,18 +18,26 @@
 	
 	color: white;
 	width: 20em;
-	margin: .5em .auto .5em .auto;
+	
+	padding-top: 1em;
+	padding-bottom: 1em;
 	
 
+}
+span {
+	color: #A8C4D5;
 }
 
 	
 
 /*.login{
-	float: initial;
+	flex-wrap: all;
+	width:20em;
+	position: relative;
 	color: white;
-	background-color: blue;
-	float: right;
+	background-color: black;
+	height: 4em;
+	
 	}*/
 	
 	
@@ -41,7 +47,7 @@
 	background-color: #354150;
 	height: auto;
 	width: auto;
-	margin: auto 1em auto 1em;
+	
 }
 .Create_Web_Text{
 
@@ -86,7 +92,7 @@
 	color: #334255;
 	height: auto;
 	width: auto;
-	margin: auto 1em auto 1em;
+	
 	padding: .5em .5em .5em .5em;
 }
 .Third_Body{
@@ -95,7 +101,7 @@
 	color: #334255;
 	height: auto;
 	width: auto;
-	margin: auto 1em auto 1em;
+	
 	padding: .5em .5em .5em .5em;
 
 }
