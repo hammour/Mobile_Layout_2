@@ -1,6 +1,7 @@
 
 header{
 	background-color: #358CBD;
+
 	
 	
 	
@@ -21,24 +22,28 @@ header{
 	
 	padding-top: 1em;
 	padding-bottom: 1em;
+
 	
 
 }
-span {
+/*.logo_comp{
+	float: right;
+	
+}
+.rest {
 	color: #A8C4D5;
-}
+}*/
+
+
 
 	
 
-/*.login{
-	flex-wrap: all;
-	width:20em;
-	position: relative;
-	color: white;
-	background-color: black;
-	height: 4em;
+.login{
+
 	
-	}*/
+	color: #fff;
+	float: right;	
+	}
 	
 	
 
@@ -117,6 +122,20 @@ span {
 
 }
 
+ul {
+    vertical-align: baseline;
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	padding: 1em 1em 1em 1em;
+}
 
 
 
