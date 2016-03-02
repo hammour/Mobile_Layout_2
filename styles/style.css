@@ -1,43 +1,82 @@
-nav{
-	height: 4em;
-	
-}
+
 .header_body{
 	background-color: #358CBD;
 	margin: 1em 1em 0em 1em;
 	padding: .5em .5em .5em .5em;
-	width: all;
+	width: auto;
+	
 	
 }
 .Word_Press_Logo{
+	width:auto;
 	margin: 1em 1em 1em 1em;
 	float: left;
 
+
 }
+
 .WordPressText{
 
-	margin: .5em .5em .5em .5em;
-	height: 3em 3em 3em 3em;
-}
-.log_in_text{
-	color: #black;
 	
-}
-.LogIn{
-	float: left;
-	height: 3em 3em 3em 3em;
-	margin: .5em .5em .5em .5em;
+	color: white;
+	width: 20em;
+	margin: .5em .auto .5em .auto;
+	
 
 }
+
+	
+
+/*.login{
+	float: initial;
+	color: white;
+	background-color: blue;
+	float: right;
+	}*/
+	
+	
+
+
 .Main_Body{
 	background-color: #354150;
-	height: 100em;
+	height: auto;
 	width: auto;
-	margin: 3em 1em 0em 1em;
+	margin: auto 1em auto 1em;
 }
-.text_new_web{
-	color: white;
+.Create_Web_Text{
 
+	
+	background-color: transparent;
+	padding-top: 10em;
+	padding-bottom: 3em;
+	color: white;
+	width:auto;
+	text-align: center;
+}
+.best_place_text{
+	background-color: transparent;
+	height:auto;
+	color: white;
+	width:auto;
+	text-align: center;
+	padding-bottom: 5em;
+	
+
+}
+.features{
+	text-align: center;
+	background-color: transparent;
+	height:auto;
+	color: white;
+	width:auto;
+	text-align: center;
+	padding-bottom: 5em;
+	
+
+}
+.img_ready{
+	float: left;
+	
 }
 
 
