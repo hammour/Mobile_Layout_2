@@ -69,9 +69,9 @@
 	height:auto;
 	color: white;
 	width:18em;
-	margin: 3em auto 5em auto;
+	margin: 3em auto 0em auto;
 	
-	padding-bottom: 3em;
+	padding-bottom: 1em;
 	
 
 }
@@ -79,6 +79,14 @@
 	
 	float: left;
 
+}
+.Second_Body{
+	background-color: #E9F0F5;
+	text-align: center;
+	height: auto;
+	width: auto;
+	margin: auto 1em auto 1em;
+	padding: .5em .5em .5em .5em;
 }
 
 
