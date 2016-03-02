@@ -83,11 +83,36 @@
 .Second_Body{
 	background-color: #E9F0F5;
 	text-align: center;
+	color: #334255;
 	height: auto;
 	width: auto;
 	margin: auto 1em auto 1em;
 	padding: .5em .5em .5em .5em;
 }
+.Third_Body{
+	background-color: #D1D3D7;
+	text-align: center;
+	color: #334255;
+	height: auto;
+	width: auto;
+	margin: auto 1em auto 1em;
+	padding: .5em .5em .5em .5em;
+
+}
+
+.Promotions{
+	background-color: #FFFFFF;
+	text-align: center;
+	color: #334255;
+	height: auto;
+	width: auto;
+	margin: 2em 1em 2em 1em;
+	padding: .5em .5em .5em .5em;
+
+}
+
+
+
 
 
 
