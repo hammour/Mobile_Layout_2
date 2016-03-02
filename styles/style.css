@@ -1,10 +1,48 @@
+nav{
+	height: 4em;
+	
+}
 .header_body{
 	background-color: #358CBD;
-	margin: 1em 1em 1em 1em;
+	margin: 1em 1em 0em 1em;
 	padding: .5em .5em .5em .5em;
-	height: auto;
-	width: auto;
+	width: all;
+	
 }
 .Word_Press_Logo{
 	margin: 1em 1em 1em 1em;
+	float: left;
+
 }
+.WordPressText{
+
+	margin: .5em .5em .5em .5em;
+	height: 3em 3em 3em 3em;
+}
+.log_in_text{
+	color: #black;
+	
+}
+.LogIn{
+	float: left;
+	height: 3em 3em 3em 3em;
+	margin: .5em .5em .5em .5em;
+
+}
+.Main_Body{
+	background-color: #354150;
+	height: 100em;
+	width: auto;
+	margin: 3em 1em 0em 1em;
+}
+.text_new_web{
+	color: white;
+
+}
+
+
+
+
+
+
+
