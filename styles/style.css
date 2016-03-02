@@ -1,3 +1,19 @@
+h1{
+	font-family: helvetica;
+}
+h2{
+	font-family: helvetica;
+}
+h3{
+	font-family: helvetica;
+}
+h4{
+	font-family: helvetica;
+}
+h5{
+	font-family: helvetica;
+}
+
 
 header{
 	background-color: #358CBD;
@@ -79,12 +95,12 @@ nav{
 .Button{
 
 	background-color: #358CBD;
-	border-style: solid;
-	border-width: 6px;
-	border-color: black;
 	margin: 2em auto 2em auto;
+	padding: .25em;
 	height: 3em;
 	width: 10em;
+	border-radius: 1px;
+  	box-shadow: 0px 0px 0px 8px rgba(0,0,0,0.3);
 }
 .B_Text{
 	color: White;
@@ -159,6 +175,14 @@ a{
 	text-decoration: none;
 	color: white;
 
+}
+.radial{
+	margin: 0 auto;
+	height: 3em;
+	width: 3em;
+	border-radius: 60%;
+	background-color: #DFE9EF;
+	padding: .5em;
 }
 
 
