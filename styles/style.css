@@ -71,9 +71,22 @@ header{
 	width:auto;
 	text-align: center;
 	padding-bottom: 5em;
-	
-
 }
+.Button{
+
+	background-color: #358CBD;
+	border-style: solid;
+	border-width: 6px;
+	border-color: black;
+	margin: 2em auto 2em auto;
+	height: 3em;
+	width: 10em;
+}
+.B_Text{
+	color: White;
+	text-align: center;
+}
+
 .features{
 	text-align: center;
 	background-color: transparent;
