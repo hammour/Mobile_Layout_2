@@ -68,15 +68,17 @@
 	background-color: transparent;
 	height:auto;
 	color: white;
-	width:auto;
-	text-align: center;
-	padding-bottom: 5em;
+	width:18em;
+	margin: 3em auto 5em auto;
+	
+	padding-bottom: 3em;
 	
 
 }
 .img_ready{
-	float: left;
 	
+	float: left;
+
 }
 
 
